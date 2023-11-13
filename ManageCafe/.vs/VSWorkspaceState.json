@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ManageCafe"
   ],
-  "SelectedNode": "\\ManageCafe.sln",
+  "SelectedNode": "\\ManageCafe\\fAdmin.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -32,14 +32,20 @@ namespace ManageCafe
 		//void LoadFoodCategory()
 		//{
 		//	string query = "select * from dbo.FoodCategory";
+        //void loadfoodcategory()
+        //{
+        //    string query = "select * from dbo.foodcategory";
 
 		//	DataProvider provider = new DataProvider();
 
 		//	dtgvCategory.DataSource = provider.ExecuteQuery(query);
+        //    dtgvcategory.datasource = provider.executequery(query);
 
 		//}
+        //}
 
 
 
 	}
+    }
 }

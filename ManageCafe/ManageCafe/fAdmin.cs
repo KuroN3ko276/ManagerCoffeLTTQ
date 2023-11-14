@@ -12,11 +12,16 @@ namespace ManageCafe
 {
     public partial class fAdmin : Form
     {
+        Classes.ConnectData dtBase = new Classes.ConnectData();
+        Classes.CommonFunctions functions = new Classes.CommonFunctions();
         public fAdmin()
         {
             InitializeComponent();
         }
 
-        
-    }
+		private void dtgvBill_CellContentClick(object sender, DataGridViewCellEventArgs e)
+		{
+
+		}
+	}
 }

@@ -33,6 +33,7 @@ namespace ManageCafe
         //{
         //    string query = "select * from dbo.foodcategory";
 
+        //    dataprovider provider = new dataprovider();
 
         //    dtgvcategory.datasource = provider.executequery(query);
 

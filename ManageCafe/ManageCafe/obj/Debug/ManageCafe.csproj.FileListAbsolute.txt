@@ -11,3 +11,16 @@ C:\Users\ASUS\Downloads\LLTQ\ManageCafe\ManageCafe\obj\Debug\ManageCafe.pdb
 C:\Users\ASUS\Downloads\LLTQ\ManageCafe\ManageCafe\obj\Debug\ManageCafe.fTableManage.resources
 C:\Users\ASUS\Downloads\LLTQ\ManageCafe\ManageCafe\obj\Debug\ManageCafe.fAccountProfile.resources
 C:\Users\ASUS\Downloads\LLTQ\ManageCafe\ManageCafe\obj\Debug\ManageCafe.fAdmin.resources
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\bin\Debug\ManageCafe.exe.config
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\bin\Debug\ManageCafe.exe
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\bin\Debug\ManageCafe.pdb
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\obj\Debug\ManageCafe.csproj.AssemblyReference.cache
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\obj\Debug\ManageCafe.fAccountProfile.resources
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\obj\Debug\ManageCafe.fAdmin.resources
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\obj\Debug\ManageCafe.fLogin.resources
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\obj\Debug\ManageCafe.fTableManage.resources
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\obj\Debug\ManageCafe.Properties.Resources.resources
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\obj\Debug\ManageCafe.csproj.GenerateResource.cache
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\obj\Debug\ManageCafe.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\obj\Debug\ManageCafe.exe
+D:\Tài liệu\Học kì 5\Lập trình trực quan\BTL\ManagerCoffeShop\ManageCafe\ManageCafe\obj\Debug\ManageCafe.pdb
